@@ -1,5 +1,7 @@
 # Seat Selector UI
 
+![simplescreenrecorder-2023-07-14_11 55 41 (online-video-cutter com)](https://github.com/Sumitk874/Seat-selector-UI/assets/69776082/b2c94b91-35cd-4466-bb3b-b7e910b540f6)
+
 The Seat Selector UI is a responsive web application built using HTML, CSS, and JavaScript. It provides a visually appealing interface for selecting seats, giving real-time feedback on user clicks. It keeps track of seat availability, selected seats, and sold seats. Additionally, it offers a feature to calculate the total cost based on the number of seats selected.
 
 ## Features
@@ -39,7 +41,3 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 ## Contact
 
 If you have any questions or suggestions regarding this project, please feel free to contact the project owner at [sumitkr8742@gmail.com](mailto:sumitkr8742@gmail.com).
-
-## Screenshots
-
-![simplescreenrecorder-2023-07-14_11 55 41 (online-video-cutter com)](https://github.com/Sumitk874/Seat-selector-UI/assets/69776082/b2c94b91-35cd-4466-bb3b-b7e910b540f6)

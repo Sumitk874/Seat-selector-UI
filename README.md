@@ -15,7 +15,7 @@ The Seat Selector UI is a responsive web application built using HTML, CSS, and 
 
 To use the Seat Selector UI, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/seat-selector-ui.git`
+1. Clone the repository: `git clone https://github.com/Sumitk874/Seat-selector-UI.git`
 2. Open the `index.html` file in a web browser.
 3. Select seats by clicking on the desired seats.
 4. The UI will provide visual feedback on seat selection and display the total cost based on the number of selected seats.
